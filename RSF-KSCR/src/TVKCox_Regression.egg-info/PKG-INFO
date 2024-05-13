@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: TVKCox-Regression
+Version: 0.1
+Summary: An implementation of the kernel smoothing Cox regression model with time-varying coefficients proposed in the paper Time-varying Hazards Model for Incorporating Irregularly Measured High_dimensional Biomarkers by Xiang et al. (2020).
+Home-page: UNKNOWN
+Author: Emil Jettli
+License: UNKNOWN
+Platform: UNKNOWN
+
+UNKNOWN
+
